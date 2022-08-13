@@ -1,7 +1,9 @@
-## Bank_Management_System_C
-Problem:   Bank Management System
-Generate Ideas:
-Login Options:
+## Bank_Management_System_C<br>
+### This Project has been written in c programming only and the details are as follows.
+Problem:   Bank Management System<br>
+Generate Ideas:<br>
+Login Options:<br>
+                      
                          1 : Admin
                          2 : User
                          3 : Create User account
